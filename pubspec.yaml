@@ -1,0 +1,20 @@
+name: bubble_ui
+description: "Coming Soon..."
+version: 0.0.1
+repository: https://github.com/enescerrahoglu/bubble_ui
+homepage: https://enescerrahoglu.com/
+
+environment:
+  sdk: ^3.5.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
